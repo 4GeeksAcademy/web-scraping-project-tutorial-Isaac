@@ -80,9 +80,3 @@ plt.xlabel("Número de canciones")
 plt.ylabel("Artista")
 plt.tight_layout()
 plt.show()
-
-
-
-
-
-
